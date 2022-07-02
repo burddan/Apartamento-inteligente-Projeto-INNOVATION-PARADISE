@@ -18,7 +18,7 @@ Na maquete simulamos como colocamos os sensores para detectar presença no vão 
 IDEIAS FUTURAS
 - Comandos de voz no aplicativo para cada comodo quando sensor for detectado
 - Fazer com que o aplicativo tenha uma tradução para libras para atender tambêm atender portadores de deficiencia auditiva (Ideia 0 custo adicional)
-- Mudando o protocolo de transferencia para WIFI
+- Mudando o protocolo de transferencia para WIFI já que Bluetooth esta ficando cada vez mais obsoleto
 - Melhorar layout do aplicativo
 - 
 - 
