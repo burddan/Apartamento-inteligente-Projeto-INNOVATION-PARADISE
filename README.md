@@ -2,7 +2,7 @@
 Projeto colegial mostrado na startup Hackathon Maceio/al
 
 <p align="center">
-  <img width="460" height="300" src="https://ibb.co/6W567tt">
+  <img width="460" height="300" src="[https://ibb.co/6W567tt](https://media.discordapp.net/attachments/933220776138670203/992720609987539005/IMG-20220702-WA0001.jpg?width=431&height=431)">
 </p>
 
 
