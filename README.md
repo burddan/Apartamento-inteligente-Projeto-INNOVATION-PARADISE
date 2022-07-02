@@ -1,12 +1,12 @@
 # Apartamento-inteligente-Projeto-INOVATIONN-PARADISE
-Projeto colegial mostrado na startup Hackathon Maceio/al
+## Projeto colegial mostrado na startup Hackathon Maceio/al
 
 <p align="center">
-  <img width="460" height="300" src="[https://ibb.co/6W567tt](https://media.discordapp.net/attachments/933220776138670203/992720609987539005/IMG-20220702-WA0001.jpg?width=431&height=431)">
+  <img width="460" height="300" src="[logoinnovationparadise.jpg](https://postimg.cc/gwYrynh1)">
 </p>
 
 
-Esse é meu primeiro repositorio no GITHUB
+> Esse é meu primeiro repositorio no GITHUB
 Esse foi um projeto que foi designado para um projeto de feira de ciencia da 
 minha escola, acabou que dando certo, minha turma ficou em primeiro lugar e acabei participando de uma startup de minha cidade e estou disponibizando o codigo e atualizações sobre o projeto :)
 
