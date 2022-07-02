@@ -1,6 +1,7 @@
 # Apartamento-inteligente-Projeto-INOVATIONN-PARADISE
 Projeto colegial mostrado na startup Hackathon Maceio/al
 
+![IMAGES](logoinnovationparadise.jpeg)
 
 Esse é meu primeiro repositorio no GITHUB
 Esse foi um projeto que foi designado para um projeto de feira de ciencia da 
@@ -11,4 +12,4 @@ Esse projeto consiste em um prototipo para uma planta de apartamento espeficamen
 ultrasonicos que servem para detectar alguem entre o vão da porta, e nisso quando o sensor detecta mostra uma mensagem no console que foi detectado e fazer 
 barulhos sonoros com um buzzer e essa informação sera enviado via blueetooth para o aplicativo
 
-![IMAGES](logoinnovationparadise.jpeg)
+![IMAGES](plantaprojeto.png)
