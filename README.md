@@ -13,3 +13,5 @@ ultrasonicos que servem para detectar alguem entre o vão da porta, e nisso quan
 barulhos sonoros com um buzzer e essa informação sera enviado via blueetooth para o aplicativo
 
 ![imagens](plantaprojeto.jpg)
+![imagens](mostrandomaquete.jpg)
+![imagens](mostrandomaquete2.jpg)
