@@ -14,3 +14,5 @@ minha escola, acabou que dando certo, minha turma ficou em primeiro lugar e acab
 Esse projeto consiste em um prototipo para uma planta de apartamento espeficamente dedidaca para pessoas que possuem deficiencia visual, e existem sensores 
 ultrasonicos que servem para detectar alguem entre o vão da porta, e nisso quando o sensor detecta mostra uma mensagem no console que foi detectado e fazer 
 barulhos sonoros com um buzzer e essa informação sera enviado via blueetooth para o aplicativo
+
+![imagens](plantaprojeto.jpg)
