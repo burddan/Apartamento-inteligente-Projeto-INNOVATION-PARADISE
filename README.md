@@ -2,7 +2,7 @@
 ## Projeto colegial mostrado na startup Hackathon Maceio/al
 
 <p align="center">
-  <img width="460" height="300" src="[IMAGES](plantaprojeto.jpg)">
+  <img width="460" height="300" src="![imagens](plantaprojeto.jpg)">
 </p>
 
 
