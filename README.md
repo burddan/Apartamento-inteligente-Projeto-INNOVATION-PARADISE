@@ -1,10 +1,7 @@
 # Apartamento-inteligente-Projeto-INOVATIONN-PARADISE
 ## Projeto colegial mostrado na startup Hackathon Maceio/al
 
-<p align="center">
-  <img width="460" height="300" src="![imagens](plantaprojeto.jpg)">
-</p>
-
+![imagens]()
 
 > Esse é meu primeiro repositorio no GITHUB
 Esse foi um projeto que foi designado para um projeto de feira de ciencia da 
