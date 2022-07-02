@@ -12,4 +12,4 @@ Esse projeto consiste em um prototipo para uma planta de apartamento espeficamen
 ultrasonicos que servem para detectar alguem entre o vão da porta, e nisso quando o sensor detecta mostra uma mensagem no console que foi detectado e fazer 
 barulhos sonoros com um buzzer e essa informação sera enviado via blueetooth para o aplicativo
 
-![IMAGES](plantaprojeto.png)
+![IMAGES](plantaprojeto.jpg)
